@@ -9,6 +9,22 @@ https://www.imo-official.org/problems.aspx
 
 ## Contents
 
+### Competition Problems (`problems/`)
+
+Official IMO competition papers in multiple languages (1132 PDFs across 63 languages).
+Each PDF contains the 6 problems given to contestants at that year's IMO.
+
+Organized by language code (e.g., `problems/eng/`, `problems/fre/`, `problems/spa/`).
+Files are named `IMO{YEAR}.pdf` (e.g., `IMO2024.pdf`).
+
+Coverage:
+- `eng/` (English): 1959-2025 (66 files, complete)
+- `fre/` (French): 1979, 1997, 2006-2025 (22 files)
+- `spa/` (Spanish): 2003-2025 (23 files)
+- Most other languages: 2006-2025 (~20 files each)
+
+Note: The 1980 IMO in Mongolia was canceled; there is no problem set for that year.
+
 ### Shortlists (`shortlists/`)
 
 IMO Shortlist PDFs from 2006-2024. Each shortlist contains:
