@@ -34,6 +34,16 @@ IMO Shortlist PDFs from 2006-2024. Each shortlist contains:
 
 Files are named `IMO{YEAR}SL.pdf` (e.g., `IMO2024SL.pdf`)
 
+### IMO Compendium (`imo-compendium.pdf`)
+
+A comprehensive collection of IMO problems from 1959-2012, including a significant amount of **longlist and shortlist material not available on the official IMO website**. This includes:
+- All competition problems with solutions
+- Shortlisted problems (many not published elsewhere)
+- Longlisted problems from earlier years
+- Historical context and problem selection notes
+
+Source: https://mathematicalolympiads.wordpress.com/wp-content/uploads/2012/08/imo-compendium.pdf
+
 ## License
 
 These materials are provided for educational purposes. Please refer to the IMO's official website for licensing information.
