@@ -18,13 +18,8 @@
 
 These are downloaded copies of the Mathematical Association of America's
 out-of-print English translation volumes (New Mathematical Library 11, 12,
-and 42), scanned copies of which circulate publicly:
-
-- Book I: https://www.scribd.com/document/358861338/
-- Book II: https://www.scribd.com/document/358861255/
-- Book III: https://www.scribd.com/document/358861412/
-
-Assembled page-for-page from the source scans at full resolution. Book III
+and 42), from scanned copies that circulate publicly. Assembled
+page-for-page from the source scans at full resolution; Book III
 reproduces two-page spreads as landscape pages, matching the original scan.
 
 ## Attribution
