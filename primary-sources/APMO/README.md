@@ -13,8 +13,6 @@ Five problems, four hours.
   1989–2025. Papers from 2014 on include per-problem proposer credits.
 - `apmo2005-results.pdf` — official results file for 2005 (the one
   results PDF recoverable from the original site's archive).
-- `apmo-compilation-1989-2019.pdf` — a circulating 30-year compilation
-  of problems and solutions, kept as a cross-reference; downloaded copy.
 
 ## Source
 
