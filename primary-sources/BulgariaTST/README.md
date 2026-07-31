@@ -22,15 +22,8 @@ each in IMO format: two days, three problems, 4.5 hours.
   `https://klasirane.com/api/competitions/KMOM/All/{year}/9-12%20кл/probs`
   (and `/sol`). Klasirane credits the "Български математически
   състезания" book series and school Sicademy.
-- English translations of many years live in the AoPS community tree:
-  https://artofproblemsolving.com/community/c3276 (2003–2008 and 2020).
-  The AoPS 2020 collection omits Problem 4 (Ivan's checker-placement
-  game), which the official paper includes; an English write-up of that
-  problem is on Dragomir Grozev's blog:
-  https://dgrozev.wordpress.com/2020/07/17/ivan-plays-tic-tac-toe-bulgarian-tst-2020-p4/
 
 ## Attribution
 
 Problems are the property of the Bulgarian national olympiad
-commission / СМБ. The official Bulgarian papers are authoritative;
-AoPS statements are community translations.
+commission / СМБ.
