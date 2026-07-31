@@ -33,6 +33,12 @@ hours.
   | iran-tst-2021.pdf | 1400 |
   | iran-tst-2022.pdf | 1401 |
 
+  The 1390 paper's page headers print ۱۳۸۹ — a stale year from the
+  previous cycle's template. Its printed weekdays (Monday 19 through
+  Friday 23 Ordibehesht) fall correctly in 1390 (May 2011), and its
+  problems are the known 2011 TST set, so the committee's 1390 naming
+  is right.
+
 ## Source
 
 - The Mathematics Olympiad Committee's own exam archive ("آرشیو
