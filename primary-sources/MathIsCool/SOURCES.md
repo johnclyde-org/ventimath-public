@@ -560,3 +560,24 @@ Source: https://www.academicsarecool.com/#/samples
 - [Champs - Solutions](https://www.academicsarecool.com/assets/samples/25-26ChampsHS_Solutions.pdf)
 - [Masters](https://www.academicsarecool.com/assets/samples/2025-26_Masters_HS_Entire_11_12.pdf)
 - [Masters - Solutions](https://www.academicsarecool.com/assets/samples/25-26MastersHS_Solutions.pdf)
+
+## 2025–26 additions
+
+Original test and solution packets retrieved from the organizer’s sample archive on September 24, 2026. Grades 7 and 8 share packets.
+
+- 4th grade — Champs: [2025-2026_4Champs_tests_ALL.pdf](2026/2025-2026_4Champs_tests_ALL.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_4Champs_tests_ALL.pdf)
+- 4th grade — Masters: [2025-2026_4Masters_tests.pdf](2026/2025-2026_4Masters_tests.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_4Masters_tests.pdf)
+- 5th grade — Champs: [2025-2026_5Champs_tests_ALL.pdf](2026/2025-2026_5Champs_tests_ALL.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_5Champs_tests_ALL.pdf)
+- 5th grade — Masters: [2025-2026_5Masters_tests.pdf](2026/2025-2026_5Masters_tests.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_5Masters_tests.pdf)
+- 6th grade — Masters: [2025-2026_6th_Masters_tests.pdf](2026/2025-2026_6th_Masters_tests.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_6th_Masters_tests.pdf)
+- 6th grade — Masters - Solutions: [2025-2026_6th_Masters_tests_SOLUTIONS.pdf](2026/2025-2026_6th_Masters_tests_SOLUTIONS.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_6th_Masters_tests_SOLUTIONS.pdf)
+- 6th grade — Champs: [2025-2026_6th_tests_ALL.pdf](2026/2025-2026_6th_tests_ALL.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_6th_tests_ALL.pdf)
+- 7th / 8th grade — Masters: [2025-2026_7th_8th_Masters_tests.pdf](2026/2025-2026_7th_8th_Masters_tests.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_7th_8th_Masters_tests.pdf)
+- 7th / 8th grade — Masters - Solutions: [2025-2026_7th_8th_Masters_tests_SOLUTIONS.pdf](2026/2025-2026_7th_8th_Masters_tests_SOLUTIONS.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_7th_8th_Masters_tests_SOLUTIONS.pdf)
+- 7th / 8th grade — Champs: [2025-2026_7th_8th_tests_ALL.pdf](2026/2025-2026_7th_8th_tests_ALL.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-2026_7th_8th_tests_ALL.pdf)
+- 6th grade — Champs - Solutions: [2025-26Champs_6th_Solutions.pdf](2026/2025-26Champs_6th_Solutions.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-26Champs_6th_Solutions.pdf)
+- 7th / 8th grade — Champs - Solutions: [2025-26Champs_7th_8th_Solutions.pdf](2026/2025-26Champs_7th_8th_Solutions.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/2025-26Champs_7th_8th_Solutions.pdf)
+- 4th grade — Champs - Solutions: [25-26Champs_4th_Solutions.pdf](2026/25-26Champs_4th_Solutions.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/25-26Champs_4th_Solutions.pdf)
+- 5th grade — Champs - Solutions: [25-26Champs_5th_Solutions.pdf](2026/25-26Champs_5th_Solutions.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/25-26Champs_5th_Solutions.pdf)
+- 4th grade — Masters - Solutions: [25-26Masters_4th_Solutions.pdf](2026/25-26Masters_4th_Solutions.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/25-26Masters_4th_Solutions.pdf)
+- 5th grade — Masters - Solutions: [25-26Masters_5th_Solutions.pdf](2026/25-26Masters_5th_Solutions.pdf) · [Official source](https://www.academicsarecool.com/assets/samples/25-26Masters_5th_Solutions.pdf)
