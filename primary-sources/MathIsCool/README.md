@@ -15,8 +15,6 @@ Math is Cool is a competition series for elementary, middle, and high school stu
 
 The archive contains 486 original PDFs from the [organizer’s sample archive](https://www.academicsarecool.com/#/samples), with papers spanning 1995–96 through 2025–26. Original filenames and PDF contents are preserved; the packets include their published rounds, answer keys, and credits. Download links are recorded in [SOURCES.md](SOURCES.md).
 
-The `2026/` folder contains the published 2025–26 Championships and Masters test and solution packets for grades 4–12. Grades 7 and 8 share packets.
-
 Year folders preserve the existing archive layout. Some older folders and filenames use the starting year of a school year; use the year printed in the paper when citing it.
 
 ## Acknowledgment
